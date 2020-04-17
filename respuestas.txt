@@ -1,0 +1,8 @@
+Alvarez Elias Martin
+A)git remote add upstream https://github.com/SebastianGiovagnoni/TP_SO_i2_E
+git fetch upstream
+git merge upstream/master
+
+B)Alfa puede actualizar su fork al estado de Beta
+
+D)Los datos de mi repositorio no se pierden si actualizo el fork
